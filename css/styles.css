@@ -379,8 +379,6 @@ overflow: hidden;
     display: flex;
         justify-content: flex-start;
         align-items: baseline;
-        gap: 120px;
-    
     }
 
 .footer-logo {
@@ -436,4 +434,6 @@ overflow: hidden;
     fill: #f4f4fd;        
 }
 
-
+.left-footer {
+margin-right: 120px;
+}
